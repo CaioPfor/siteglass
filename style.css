@@ -99,7 +99,9 @@ body{
 #cabecalho{
    
    
- 
+   background-image: url(glass-logo-peq.jpg) ;
+   background-repeat: no-repeat;
+   background-position: bottom left;
    
 border-bottom: 1px #606060 solid;
 
@@ -244,7 +246,7 @@ figure.foto-legenda:hover figcaption{
     transition:color 1s;
 }
 #icone{
-   
+   display:none;
    
 }
 #cabediv{
