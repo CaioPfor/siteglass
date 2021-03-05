@@ -4,13 +4,25 @@
  }
  #frame-spec{
      width: 100%;
-    
+      display: none;
      border: none;
     
      margin-bottom: 20px;
- }#frame-spec::-webkit-scrollbar{
+ }
+ #frame-spec2{
+    width: 100%;
+    border: none;
+    margin-bottom: 20px;
+   
+    overflow: hidden;
+ }
+#frame-spec::-webkit-scrollbar{
      display: none;
  
  }
+ #frame-spec2::-webkit-scrollbar{
+    display: none;
+
+}
  
  
