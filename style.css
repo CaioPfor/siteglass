@@ -75,9 +75,10 @@ p{
   
 }
 body{
-   margin: 0;
-   width:100%;
   
+   width:100%;
+  margin-left: 12px;
+   margin-right: 12px;
    
   
 
