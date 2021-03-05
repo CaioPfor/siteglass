@@ -1,0 +1,16 @@
+#conteudo{
+    width: 100%; 
+    margin: auto;
+ }
+ #frame-spec{
+     width: 100%;
+    
+     border: none;
+    
+     margin-bottom: 20px;
+ }#frame-spec::-webkit-scrollbar{
+     display: none;
+ 
+ }
+ 
+ 
