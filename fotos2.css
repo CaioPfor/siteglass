@@ -130,8 +130,8 @@ font-weight: bold;
 
 }
 #album-fotos li:hover {
--webkit-transform: scale(1.7);
+-webkit-transform: scale(1.6);
 -webkit-transition: all .4s ease-in;
-transform: scale(1.7) ;
+transform: scale(1.6) ;
 transition:-webkit-transform 0.4s ;
 }
