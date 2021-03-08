@@ -36,7 +36,8 @@ a:hover{
     
 }
 #corpo-full{
-   
+    display: block;
+    width: 100%;
 
 }
 #cabecalho-de-artigo{
@@ -80,7 +81,7 @@ p{
 }
 body{
   
-   width: 100%;
+   width: 96%;
    
   
 
