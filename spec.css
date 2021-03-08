@@ -1,0 +1,62 @@
+#conteudo{
+  
+    margin: 0;
+    
+   
+ }
+ #frame-spec{
+     width: 120%;
+    height: 150%;
+    
+     border: none;
+     margin: 0%;
+  position: absolute;
+  top: -2%;
+  right: -120%;
+  
+ float: right;    
+     
+ }
+ 
+ 
+ #frame-spec2{
+     display: none;
+  }
+  #frame-spec::-webkit-scrollbar{
+     display: none;
+ 
+ 
+ }
+ 
+ #img1{
+    
+
+    
+    width: 60%;
+    
+ }
+ 
+ #img2{
+     display: none;
+ 
+ }
+ #maoc{
+   position: relative;
+    top: -10%;
+    right:-90%;
+    
+ }
+ #maocima{
+    display: none;
+    position: absolute;
+     width: 45%;
+    right:-40%;   
+     
+ }
+#maoaponta{
+      position: relative;
+   
+    right:-90%;   
+    top: 20%;
+ }
+ 
