@@ -18,7 +18,7 @@ font-weight: bold;
     
 }
 #album-fotos{
-    width: 100%;
+    width: 700px;
     margin: 0px;
     padding: 60px;
     overflow: hidden;
@@ -28,8 +28,8 @@ font-weight: bold;
 }
 #album-fotos li{
   
-      width: 100%;
-    height: 100% ;
+      width: 200px;
+    height: 200px ;
     margin: 10px;
     border: 5px solid #ffffff;
     background-color: #ffffff;
