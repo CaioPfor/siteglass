@@ -78,7 +78,7 @@ p{
 }
 body{
   
-  width: 94%;
+  width: 100%;
   
   margin: 0;
   
@@ -265,7 +265,7 @@ figure.foto-legenda:hover figcaption{
 #corpo{
      /*divido a area em principal*/
     display: block;/*ser mostrada como bloco!*/
-    
+     width: 100%;
     float: left;
     border-right: 1px solid #606060;
     padding-right: 15px;
