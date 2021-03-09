@@ -1,0 +1,174 @@
+#album{
+    list-style: none;
+   width: 20%;
+   
+   
+  
+}
+#album2{
+    list-style: none;
+   width: 20%;
+   
+   
+  
+}
+li{
+  
+  
+}
+ul{
+    display: inline-flex;
+}
+#line ul{
+   
+}
+#img{
+ 
+}
+#lgd{
+    text-align: center left;
+   background-color: rgba(0, 0, 0, 0.2);
+   border-radius: 10px;
+   display: none;
+}
+#foto01{
+   
+    background-position: center left ;
+   background-repeat: no-repeat;
+   background-image: url(_imagens/galeria-01.jpg) ;
+   background-size: 140% ;
+   background-position: 90% 100%;
+   padding: 65%;
+
+ border-radius: 30px;
+ margin: 1%;
+  margin-right: 3%;
+ 
+    
+}
+
+#foto02{
+   
+   
+    margin-right: 5%;
+    background-repeat: no-repeat;
+    background-image: url(_imagens/galeria-02.jpg) ;
+    background-size: 190% ;
+    background-position: 10% 100%;
+    padding: 65%;
+ 
+  border-radius: 30px;
+  margin: 1%;
+ 
+  margin-right: 3%;
+    
+ }
+ #foto03{
+    position: relative;
+    margin-right: 5%;
+    background-repeat: no-repeat;
+    background-image: url(_imagens/galeria-03.jpg) ;
+    background-size: 140% ;
+    background-position: 90% 100%;
+    padding: 65%;
+ 
+  border-radius: 30px;
+  margin: 1%;
+  margin-right: 3%;
+}
+#foto04{
+    position: relative;
+    margin-right: 5%;
+    
+    background-repeat: no-repeat;
+    background-image: url(_imagens/galeria-04.jpg) ;
+    background-size: 200% ;
+    background-position: 90% 100%;
+    padding: 65%;
+ 
+  border-radius: 30px;
+  margin: 1%;
+  margin-right: 3%;
+ }
+ #foto05{
+    position: relative;
+    
+    
+    background-repeat: no-repeat;
+    background-image: url(_imagens/galeria-05.jpg) ;
+    background-size: 190% ;
+    background-position: 40% 100%;
+    padding: 65%;
+ 
+  border-radius: 30px;
+  margin: 1%;
+  margin-right: 3%;
+}
+#foto06{
+    position: relative;
+   
+    
+    background-repeat: no-repeat;
+    background-image: url(_imagens/galeria-06.jpg) ;
+    background-size: 160% ;
+    background-position: 99% 0%;
+    padding: 65%;
+ 
+  border-radius: 30px;
+  margin: 1%;
+  margin-right: 3%;
+ }
+#foto01:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+    transition: padding  1s;
+   
+   
+    
+}
+
+#foto02:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+    transition: padding  1s;
+   
+}
+#foto03:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+ 
+    transition: padding  1s;
+   
+   
+    
+}
+
+#foto04:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+ 
+    transition: padding  1s;
+   
+}
+#foto05:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+ 
+    transition: padding  1s;
+   
+    
+}
+
+#foto06:hover{
+    background-size: 100%;
+    padding: 100%;
+ 
+ 
+    transition: padding  1s;
+   
+}
