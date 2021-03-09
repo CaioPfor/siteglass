@@ -28,7 +28,7 @@
 #foto01{
     background-position: center left ;
    background-repeat: no-repeat;
-   background-image: url(_imagens/galeria-01.jpg) ;
+   background-image: url(galeria-01.jpg) ;
    background-size: 150% ;
    background-position: 90% 100%;
    padding: 35%;
@@ -43,7 +43,7 @@
 #foto02{
     background-position: center left ;
     background-repeat: no-repeat;
-    background-image: url(_imagens/galeria-02.jpg) ;
+    background-image: url(galeria-02.jpg) ;
     background-size: 180% ;
     background-position: 10% 100%;
     padding: 35%;
@@ -56,7 +56,7 @@
  #foto03{
     background-position: center left ;
    background-repeat: no-repeat;
-   background-image: url(_imagens/galeria-03.jpg) ;
+   background-image: url(galeria-03.jpg) ;
    background-size: 130% ;
    background-position: 90% 100%;
    padding: 35%;
@@ -69,7 +69,7 @@
 #foto04{
     background-position: center left ;
     background-repeat: no-repeat;
-    background-image: url(_imagens/galeria-04.jpg) ;
+    background-image: url(galeria-04.jpg) ;
     background-size: 100% ;
     background-position: 1% 0%;
     padding: 35%;
@@ -82,7 +82,7 @@
  #foto05{
     background-position: center left ;
    background-repeat: no-repeat;
-   background-image: url(_imagens/galeria-05.jpg) ;
+   background-image: url(galeria-05.jpg) ;
    background-size: 150% ;
    background-position: 10% 1%;
    padding: 35%;
@@ -95,7 +95,7 @@
 #foto06{
     background-position: center left ;
     background-repeat: no-repeat;
-    background-image: url(_imagens/galeria-06.jpg) ;
+    background-image: url(galeria-06.jpg) ;
     background-size: 150% ;
     background-position: 9% 1%;
     padding: 35%;
