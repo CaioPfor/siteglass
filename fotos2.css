@@ -21,10 +21,11 @@
 }
 
 #lgd{
-     text-align: left;
+    text-align: left;
    background-color: rgba(0, 0, 0, 0.1);
    border-radius: 10%;
    font-size: 9pt;
+    background-position:left ;
 }
 #foto01{
     background-position: center left ;
@@ -57,7 +58,7 @@
  #foto03{
     background-position: center left ;
    background-repeat: no-repeat;
-   background-image: url(_imagens/galeria-03.jpg) ;
+   background-image: url(galeria-03.jpg) ;
    background-size: 130% ;
    background-position: 90% 100%;
    padding: 65%;
